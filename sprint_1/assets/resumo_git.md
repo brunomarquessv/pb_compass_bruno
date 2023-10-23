@@ -20,3 +20,6 @@ Repositório <br>
 •	Iniciar um projeto, é iniciar um novo repositório;
 •	Podemos enviar os repositórios para servidores que são especializados em gerenciar repos, como: GitHub e Bitbucket;
 •	Cada desenvolvedor do time pode baixar o repositório e criar versões diferentes em sua máquina;
+
+Branches <br>
+• 

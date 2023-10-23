@@ -36,5 +36,4 @@ git checkout (o arquivo modificado por ser retonardo ao estado original);
 <br>
 git reset (podemos resetar as mudanças feitas, geralmente utilizado com a flag --hard. todas as alterações de commitadas e também as pendentes serão excluídas);
 
-## Branches
 
