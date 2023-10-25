@@ -22,4 +22,9 @@ Repositório <br>
 •	Cada desenvolvedor do time pode baixar o repositório e criar versões diferentes em sua máquina;
 
 Branches <br>
-• 
+• Forma que o git separa as versões do projeto
+• Quando um projeto é criado ele inicia na branch main
+• Cada nova feature de um projeto fica em um branch separado
+• Após a finalização das alterações os branchs são unidos para ter o código-fonte final
+
+
