@@ -4,7 +4,7 @@
 **git status** (confere o status do projeto, incluindo todas as alterações feitas nele)<br>
 **mkdir <nome_da_pasta>** (criar pasta)<br>
 **cd <nome_da_pasta>** (redireciona para dentro da pasta do projeto)<br>
-**git add <nome arquivo>** (adiciona arquivos novos a um projeto)<br>
+**git add <nome arquivo> (adiciona arquivos novos a um projeto)<br>
 **git add .** (adiciona todos os novos arquivos ao projeto)<br>
 **git commit -m (message)** (comenta uma alteração)<br>
 **git commit -a (all) -m** (comenta todos os arquivos que precisam de um commit)<br>
