@@ -32,14 +32,14 @@ Adoro passar meu tempo livre com amigos, jogando counter-strike ou num bar aprov
 
 Na primeira sprint, focamos em Git, GitHub e o sistema operacional Linux. Esse conteúdo é crucial, pois Git e GitHub são fundamentais para o desenvolvimento colaborativo de software, permitindo o controle de versões e o trabalho em equipe de forma eficiente. Além disso, o conhecimento em Linux é essencial para desenvolvedores, pois é um sistema operacional amplamente utilizado em servidores e servirá de base para utilizarmos as plataformas AWS.
 
-[Portfólio Sprint 1](../pb_compass_bruno/sprint_1/)
-[Comandos Linux](../pb_compass_bruno/sprint_1/comandoslinux.md)
-[Comandos Git_&_GitHub](../pb_compass_bruno/sprint_1/comandosgit.md)
+[Portfólio Sprint 1](../pb_compass_bruno/sprint_1/)<br>
+[Comandos Linux](../pb_compass_bruno/sprint_1/comandoslinux.md)<br>
+[Comandos Git_&_GitHub](../pb_compass_bruno/sprint_1/comandosgit.md)<br>
 
 ## Sprint 2
-[Portfólio Sprint 2](../pb_compass_bruno/sprint_2/)
+[Portfólio Sprint 2](../pb_compass_bruno/sprint_2/)<br>
 [README](../pb_compass_bruno/sprint_2/)
 
 ## Sprint 3
-[Portfólio Sprint 3](../pb_compass_bruno/sprint_3/)
+[Portfólio Sprint 3](../pb_compass_bruno/sprint_3/)<br>
 [README](../pb_compass_bruno/sprint_3/README.md)
