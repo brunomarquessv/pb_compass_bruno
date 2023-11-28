@@ -1,4 +1,4 @@
-# Sprint 4
+# Sprint 3
 **Na última sprint, nos concentramos exclusivamente na linguagem Python, desde os seus principais fundamentos, até conceitos mais avançados da linguagem.**
 
 * [Exercícios](../sprint_3/exercicios/)
