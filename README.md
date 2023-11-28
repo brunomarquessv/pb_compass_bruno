@@ -26,20 +26,20 @@ Comer! Uma das coisas que mais me fazem felizes, desfrutar de uma boa comida. At
 
 Adoro passar meu tempo livre com amigos, jogando counter-strike ou num bar aproveitando um bom happy hour e acompanhado de um forró de fundo, sempre jogando conversa fora. Mais ainda, passar o tempo com minha namorada, que é minha melhor amiga e de longe a melhor companhia que eu poderia ter na vida, se eu pudesse, seria um README só sobre o quanto ela é íncrivel.
 
-# Progresso
+# Progresso 🔄
 
 ## Sprint 1
 
 Na primeira sprint, focamos em Git, GitHub e o sistema operacional Linux. Esse conteúdo é crucial, pois Git e GitHub são fundamentais para o desenvolvimento colaborativo de software, permitindo o controle de versões e o trabalho em equipe de forma eficiente. Além disso, o conhecimento em Linux é essencial para desenvolvedores, pois é um sistema operacional amplamente utilizado em servidores e servirá de base para utilizarmos as plataformas AWS.
 
-[Portfólio Sprint 1](../pb_compass_bruno/sprint_1/)<br>
-[Comandos Linux](../pb_compass_bruno/sprint_1/comandoslinux.md)<br>
-[Comandos Git_&_GitHub](../pb_compass_bruno/sprint_1/comandosgit.md)<br>
+📂[Portfólio Sprint 1](../pb_compass_bruno/sprint_1/)<br>
+📄[Comandos Linux](../pb_compass_bruno/sprint_1/comandoslinux.md)<br>
+📄[Comandos Git_&_GitHub](../pb_compass_bruno/sprint_1/comandosgit.md)<br>
 
 ## Sprint 2
-[Portfólio Sprint 2](../pb_compass_bruno/sprint_2/)<br>
-[README](../pb_compass_bruno/sprint_2/)
+📂[Portfólio Sprint 2](../pb_compass_bruno/sprint_2/)<br>
+📄[README](../pb_compass_bruno/sprint_2/)
 
 ## Sprint 3
-[Portfólio Sprint 3](../pb_compass_bruno/sprint_3/)<br>
-[README](../pb_compass_bruno/sprint_3/README.md)
+📂[Portfólio Sprint 3](../pb_compass_bruno/sprint_3/)<br>
+📄[README](../pb_compass_bruno/sprint_3/README.md)
