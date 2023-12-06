@@ -1,0 +1,37 @@
+comandos fundamentais de terminal docker:
+- docker run <imagem> -> iniciar uma imagem docker
+- docker run -it -> permite que mantenha o contêiner aberto e permite que você interaja com ele. portanto, permite interatividade com o terminal do container como se estivesse trabalhando diretamente com ele.
+- docker run -d -> serve para nao ocupar o terminal, executando o container em segundo plano
+- docker ps -a (mostra todos os containers que estao rodando e que ja rodaram na maquina) ou docker container ls -> exibe quais os containers estao sendo executados
+- docker stop <id ou nome> (utilizado para parar um container)
+- docker run -p <porta_do_host>:<porta_do_contêiner> -> é usado para mapear portas entre o sistema host e o contêiner 
+- docker start <id ou nome> -> utilizado para reiniciar um container que foi parado
+- docker run --name <nome que vai ser dado ao container> <imagem> (utilizado para nomear um container)
+- docker logs <nome do container> (mostra os logs de determinado container)
+- docker rm <id> (remove um container da máquina e se utilizarmos a flag -f (force) a maquina força o container que estiver aberto a fechar e o exclui)
+
+criando imagem docker:
+
+FROM 
+WORKDIR
+RUN
+COPY
+EXPOSE 
+CMD ["",""]
+
+executando imagem:
+1. docker build -t <nome> <diretorio da imagem> -> a flag -t é utilizada para nomear 
+2. docker run <imagem>
+
+outros comandos:
+docker pull <imagem> -> download da imagem
+docker tag <id> + <novo nome> -> nomear imagem
+docker run -it -> 
+docker rmi <imagem> -> remoção de uma imagem 
+docker system prune -> remove a data inutil do docker
+docker cp -> permite copiar arquivo e diretorios entre o sistema de arquivos do host e um conteiner docker em execução ou entre conteiners.
+docker top <container> -> verifica informações de processamento de um container
+docker inspect <container> -> verifica informações como: id, data de criação, imagem...
+docker stats -> exibe o gasto de maquina que esta utilizando os containers inicializados
+
+
