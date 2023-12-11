@@ -34,4 +34,9 @@ docker top <container> -> verifica informações de processamento de um containe
 docker inspect <container> -> verifica informações como: id, data de criação, imagem...
 docker stats -> exibe o gasto de maquina que esta utilizando os containers inicializados
 
+NETWORK:
+docker network ls -> verificação das redes dentro do ambiente docker
+docker network create <nome> -> criação de rede
+docker network rm <nome> -> remoção de uma rede
+
 
