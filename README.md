@@ -45,5 +45,9 @@ Na primeira sprint, focamos em Git, GitHub e o sistema operacional Linux. Esse c
 📄[README](../pb_compass_bruno/sprint_3/README.md)
 
 ## Sprint 4 - Python funcional, Estatística Descritiva e Docker
-📂 [Portfólio Sprint 4](../pb_compass_bruno/sprint_4/)
+📂[Portfólio Sprint 4](../pb_compass_bruno/sprint_4/)<br>
 📄[README](../pb_compass_bruno/sprint_4/)
+
+## Sprint 5 - AWS Services 
+📂[Portfólio SPrint 5](../pb_compass_bruno/sprint_5/)<br>
+📄[README](../pb_compass_bruno/sprint_5/)
