@@ -2,7 +2,7 @@
 
 ## O que é computação em nuvem?
 
-**Computação em nuvem é a entrega de recursos de TI sob demanda pela Internet com pagamento conforme o uso.
+**Computação em nuvem é a entrega de recursos de TI sob demanda pela Internet com pagamento conforme o uso.**
 
 [What is cloud computing?](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/what-is-cloud-computing.html)
 
@@ -43,7 +43,7 @@ A infraestrutura da amazon, tem alcance global e está localizada em pontos chav
 6. **AWS Lambda:**
 - Execução de códigos em resposta a eventos, sem a utilização de servidores
 
-**Benefícios:
+**Benefícios:**
 1. **Elasticidade:** permite que que os clientes aumentem ou diminuam a capacidade computacional em minutos. 
 2. **Controle:** os clientes possuem controle total sobre as instâncias implantadas, incluindo acesso a raiz ou de administrador, além da possibilidade de interações.
 3. **Flexibilidade:** grande variedade instâncias, sistemas operacionais (SO) e pacotes de software.
@@ -150,7 +150,7 @@ Resumo:
 6. O acoplamento fraco liberta você
 7. Não temer restrições
 
-**AWS Well-Architected Framework
+**AWS Well-Architected Framework**
 
 É um conjunto de melhores práticas e princípios recomendados para criar e implantar arquiteturas de nuvem eficientes, seguras e resilientes. 
 
@@ -163,7 +163,7 @@ Ele fornece orientações sobre como projetar sistemas na AWS com foco em seis p
 5. Otimização de custos
 6. Sustentabilidade
 
-**Exemplo de: otimização de custos
+**Exemplo de: otimização de custos**
 - Dimensionamento correto de instâncias
 - Aumento da elasticidade do aplicativo
 - Escolha do modelo correto de preço

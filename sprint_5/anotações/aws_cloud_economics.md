@@ -86,10 +86,10 @@ Como a AWS ajuda?
 - Permite melhora contínua e a entrega de maior valor aos seus clientes
 - Promove desenvolvimento de produtos, expansão a novos mercados, maior interação de tomadores de decisão internos e externos
 
-**Key perfomance indicator (KPI)
+**Key perfomance indicator (KPI)**
 - indicador de "sucesso"
 
-**Fail Fast
+**Fail Fast**
 - Processo de realizar testes o quanto antes, para aprendez com rapidez e a longo prazo, acertar mais rápido e gastando menos dinheiro no processo. 
 - Permite que uma organização encerre cada iniciativa com falha sem o trabalho e os recursos desperdiçados associados a um ambiente on-premises não flexível.
 

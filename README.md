@@ -37,17 +37,23 @@ Na primeira sprint, focamos em Git, GitHub e o sistema operacional Linux. Esse c
 📄[Comandos Git_&_GitHub](../pb_compass_bruno/sprint_1/comandosgit.md)<br>
 
 ## Sprint 2 - Banco de Dados com SQL e Big Data
-📂[Portfólio Sprint 2](../pb_compass_bruno/sprint_2/)<br>
-📄[README](../pb_compass_bruno/sprint_2/)
+
+Nesta sprint, foram abordados os princípios fundamentais do SQL para banco de dados relacionais, além de uma introdução aos conceitos básicos do Big Data, focando na análise e processamento de grandes conjuntos de dados.
+
+📂[Portfólio Sprint 2](sprint_2)<br>
+📄[README](sprint_2\BigData.md)
 
 ## Sprint 3 - Python
-📂[Portfólio Sprint 3](../pb_compass_bruno/sprint_3/)<br>
-📄[README](../pb_compass_bruno/sprint_3/README.md)
+📂[Portfólio Sprint 3](sprint_3)<br>
+📄[README](sprint_3\README.md)
 
 ## Sprint 4 - Python funcional, Estatística Descritiva e Docker
-📂[Portfólio Sprint 4](../pb_compass_bruno/sprint_4/)<br>
-📄[README](../pb_compass_bruno/sprint_4/)
+📂[Portfólio Sprint 4](sprint_4)<br>
+📄[README](sprint_4)
 
-## Sprint 5 - AWS Services 
-📂[Portfólio SPrint 5](../pb_compass_bruno/sprint_5/)<br>
-📄[README](../pb_compass_bruno/sprint_5/)
+## Sprint 5 - AWS Services
+
+Nesta sprint, houve uma introdução aos serviços oferecidos pela AWS (Amazon Web Services) e ao roteiro para se tornar um AWS Cloud Practitioner. Os serviços da AWS são uma ampla gama de recursos em nuvem, como computação, armazenamento, banco de dados, machine learning e muito mais, disponíveis para auxiliar em diferentes necessidades de negócios. O roteiro para se tornar um AWS Cloud Practitioner envolve familiarização com os fundamentos da AWS, incluindo conceitos-chave, serviços principais, melhores práticas de segurança e preços, fornecendo uma base sólida para quem deseja começar a trabalhar com a plataforma de nuvem da Amazon.
+
+📂[Portfólio Sprint 5](sprint_5)<br>
+📄[README](sprint_5\README.md)
