@@ -1,4 +1,4 @@
-# Sprint 6 
+# Sprint 5 
 
 ## Introdução aos Serviços AWS
 
