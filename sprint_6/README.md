@@ -11,5 +11,5 @@ Redshift, como data warehouse distribuído, proporcionou armazenamento e process
 Ao integrar essas tecnologias, construímos soluções abrangentes em Data Analytics, capacitando decisões informadas e estratégicas no ambiente dinâmico da análise de dados na nuvem.
 
 [Anotações Data Analytics Fundamentals](../sprint_6/anotações/Data%20Analytics%20Fundamentals.md)
-
+[Laboratórios(Exercícios)](../sprint_6/lab%20aws/)
 
