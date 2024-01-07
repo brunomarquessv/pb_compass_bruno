@@ -57,3 +57,10 @@ Nesta sprint, houve uma introdução aos serviços oferecidos pela AWS (Amazon W
 
 📂[Portfólio Sprint 5](sprint_5)<br>
 📄[README](sprint_5\README.md)
+
+## Sprint 6 - AWS Data Analytics
+
+Nesta sprint, exploramos Data Analytics com foco nas tecnologias AWS, como Amazon S3, Athena, QuickSight, Redshift e Kinesis.
+
+📂[Portfólio Sprint 6](sprint_6)<br>
+📄[README](sprint_6\README.md)
