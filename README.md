@@ -68,3 +68,6 @@ Nesta sprint, exploramos Data Analytics com foco nas tecnologias AWS, como Amazo
 ## Sprint 7 - Hadoop, Spark, AWS Glue e 1ª Parte do Desafio.
 
 Nesta sprint, tivemos introdução ao Hadoop e ao framework Spark, mais especificamente com o pyspark. Realizamos alguns laboratórios utilizando o Python, Pandas e Numpy.
+
+📂[Portfólio Sprint 7](../pb_compass_bruno/sprint_7/)<br>
+📄[README](../pb_compass_bruno/sprint_7/README.md)
