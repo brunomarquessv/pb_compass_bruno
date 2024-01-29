@@ -14,8 +14,8 @@ def get_movie_id(movie_title):
     else:
         return None
 
-pearl_harbor_id = get_movie_id("Pearl Harbor")
-print("pearl harbor:", pearl_harbor_id)
+dunkirk_id = get_movie_id("Dunkirk")
+print("dunkirk:", dunkirk_id)
 
-_1917_id = get_movie_id("1917")
-print("1917:", _1917_id)
+red_line_id = get_movie_id("Além da Linha Vermelha")
+print("alem_da_linha_vermelha:", red_line_id)

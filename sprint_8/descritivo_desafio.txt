@@ -1,0 +1,8 @@
+Objetivos:
+- O principal objetivo do projeto é utilizar a API da TMDDb para obter informações sobre os filmes "Dunkirk" e "The Thin Red Line" e realizar uma comparação entre eles, destacando suas semelhanças e diferenças. 
+
+Endpoints:
+obtenção de detalhes do filme: GET /movie/{movie_id}/details
+obter detalhes sobre o elenco do filme: GET /movie/{movie_id}/cast or .../actors
+obter comentários do filme: GET /movie/{movie_id}/comments
+obter bilheteria: GET /movie/{movie_id}/box_office

@@ -1,7 +1,4 @@
-.obsidian
-.idea
 .git
-glue-lab.pdf
 var_ambientes.py
 __pycache__
 .env
