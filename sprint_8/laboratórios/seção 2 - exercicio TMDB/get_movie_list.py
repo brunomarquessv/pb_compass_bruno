@@ -5,7 +5,7 @@ from IPython.display import display
 import os
 
 load_dotenv()
-api_key = os.getenv("API_KEY")
+api_key = "7a8e88b10dfbd0132b73ee50b1a0d740"
 
 url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
 
