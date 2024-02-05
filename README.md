@@ -44,10 +44,16 @@ Nesta sprint, foram abordados os princípios fundamentais do SQL para banco de d
 📄[README](sprint_2\BigData.md)
 
 ## Sprint 3 - Python
+
+Nesta sprint, focamos em estudar Python, aprimorando nossas habilidades fundamentais na linguagem. Exploramos conceitos básicos e avançados, fortalecendo nossa base técnica para futuros projetos.
+
 📂[Portfólio Sprint 3](sprint_3)<br>
 📄[README](sprint_3\README.md)
 
 ## Sprint 4 - Python funcional, Estatística Descritiva e Docker
+
+Durante esta sprint, mergulhamos ainda mais fundo no Python, explorando aspectos funcionais da linguagem e aprofundando nossos conhecimentos em estatística descritiva com Pandas. Além disso, dedicamos tempo para aprender sobre Docker, ampliando nossa compreensão de ambientes de desenvolvimento e implantação de software. 
+
 📂[Portfólio Sprint 4](sprint_4)<br>
 📄[README](sprint_4)
 
@@ -71,3 +77,10 @@ Nesta sprint, tivemos introdução ao Hadoop e ao framework Spark, mais especifi
 
 📂[Portfólio Sprint 7](sprint_7)<br>
 📄[README](sprint_7/README.md)
+
+## Sprint 8 - Continuação Desafio Final & Apache Spark, SparkSQL, Python e Pandas
+
+Durante esta sprint, prosseguimos com o desafio, utilizando tecnologias como AWS Lambda e Amazon S3 para complementar nossos processos. Além disso, realizamos laboratórios, aprofundando nosso conhecimento em Apache Spark, SparkSQL, Pandas e Python. 
+
+📂[Portfólio Sprint 8](sprint_8)<br>
+📄[README](../pb_compass_bruno/sprint_8/README.md)
