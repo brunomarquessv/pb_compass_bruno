@@ -35,3 +35,6 @@ FROM locacao
 
 5. Banco de dados normalizado 
 ![Query](query.png)
+
+6. Modelagem lógica
+![Modelagem lógica](modelagem_logica.png)
