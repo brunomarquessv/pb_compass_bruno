@@ -84,6 +84,3 @@ Durante esta sprint, prosseguimos com o desafio, utilizando tecnologias como AWS
 
 📂[Portfólio Sprint 8](sprint_8)<br>
 📄[README](../pb_compass_bruno/sprint_8/README.md)
-
-## Sprint 9 - Aviso
-📄[README](../pb_compass_bruno/sprint_9/README.md)
